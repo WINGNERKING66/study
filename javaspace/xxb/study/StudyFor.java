@@ -1,3 +1,5 @@
+package xxb.study;
+
 //for循环练习 计算阶乘
 public class StudyFor {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package xxb.study;
+
 public class StudyIf {
     public static void main(String[] args) {
         int i = 100;

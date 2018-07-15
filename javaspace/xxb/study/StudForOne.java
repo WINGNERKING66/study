@@ -1,3 +1,5 @@
+package xxb.study;
+
 //计算1到99的累加
 public class StudForOne {
     public static void main(String[] args) {
